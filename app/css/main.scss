@@ -1,0 +1,20 @@
+$red : brown;
+$blue : blue;
+$blues : red;
+/**/
+body{
+	color:$red;
+	background:$blue;
+	text-align:center;
+	padding:250px;
+	margin:50px;
+	font-size:48px;
+	border:20px solid red;
+}
+p{
+	color:blue;
+	text-align:center;
+}
+h1{
+	border:2px solid #fff;
+}
